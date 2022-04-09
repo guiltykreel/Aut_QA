@@ -1,1 +1,3 @@
-some content for feature commit 
+some content for feature commit
+
+more content for feature commit  
